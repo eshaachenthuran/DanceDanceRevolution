@@ -1,4 +1,4 @@
-# ECE 241 Final Course Project
+# ECE 241 Final Project
 **Contributors:** Rosie Liu, Napat Kaewkamnerd, Eshaa Chenthuran
 
 **Summary:** Our final project for the Digital Logic course, ECE241, at the University of Toronto: A version of the classic arcade game, Dance Dance Revolution.
