@@ -8,8 +8,9 @@
 - Game logic (in progress)
 
 **Inputs (Eshaa)**
-- PS2 Keyboard input to FPGA (DE1-SoC) Board
+- PS2 Keyboard input to FPGA Board
 - Analog vibration sensors (in progress)
+- Many state FSM to manage sensor states
 - FPGA switches & keys
   
 **Audio Output (Napat)**
