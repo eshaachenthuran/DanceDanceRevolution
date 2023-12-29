@@ -8,7 +8,7 @@
 - Game logic (in progress)
 
 **Inputs (Eshaa)**
-- PS2 Keyboard input to FPGA Board
+- PS2 Keyboard input to FPGA (DE1-SoC) Board
 - Analog vibration sensors (in progress)
 - FPGA switches & keys
   
